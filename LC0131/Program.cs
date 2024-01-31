@@ -1,4 +1,9 @@
-﻿bool b1;// b1, bool, simple, not expensive
+﻿// MIS3013 001
+// January 31, 2024
+// Helen Sniezek
+// 113552793
+
+bool b1;// b1, bool, simple, not expensive
 // the address of the bool space is stored on b1
 b1 = true;// assignment right Byte, 0:false 1:true
 // RAM memory
